@@ -14,6 +14,7 @@
       docker -v
  
 4.重新登入
+<pre><code>reboot</code></pre>
 
 5.安裝步驟寫成shell
 <pre><code> #!user/bin/bash 
