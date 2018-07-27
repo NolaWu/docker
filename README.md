@@ -1,7 +1,6 @@
 
 安裝docker
 -------------
-
 1.下載 docker                                                               
 
       curl -fsSL https://get.docker.com/ | sh      
@@ -24,7 +23,12 @@
 
 啟動 Docker
 -------------
-
 <pre><code>sudo systemctl start docker
 sudo systemctl enable docker 
 docker --version   #查看版本</code></pre>
+
+
+建構image
+-------------
+1.觀察docker
+<pre><code>docker images</code></pre>
