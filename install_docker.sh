@@ -11,6 +11,9 @@ sudo usermod -aG docker yourname
 sudo systemctl start docker
 sudo systemctl enable docker
 
+#reeboot
+reboot
+
 #build choice one /dockerfile build your image
 #docker build -t <userName>/<tag> <dockerfile_path>
  
