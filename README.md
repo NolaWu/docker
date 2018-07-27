@@ -1,5 +1,6 @@
 
 安裝docker
+-------------
 
 1.下載 docker                                                               
 
@@ -22,7 +23,8 @@
 
 
 啟動 Docker
+-------------
 
-1.sudo systemctl start docker
-2.sudo systemctl enable docker 
-3.docker --version   #查看版本
+<pre><code>sudo systemctl start docker
+sudo systemctl enable docker 
+docker --version   #查看版本</code></pre>
